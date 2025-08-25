@@ -94,23 +94,23 @@ pip install -r requirements.txt
 ---
 
 ## ✅ Results & Conclusion
-. AI-powered dashboard significantly improved decision-making for SMEs
-. Delivered predictive insights aligned with UAE Vision 2030 goals
-. Enabled stakeholders to track KPIs and market trends in real-time
+- AI-powered dashboard significantly improved decision-making for SMEs
+- Delivered predictive insights aligned with UAE Vision 2030 goals
+- Enabled stakeholders to track KPIs and market trends in real-time
 
 ---
 
 ## 🔮 Future Work
-. Integrate real-time APIs for continuous data updates
-. Expand to include more SME sectors across the GCC region
-. Deploy a web-based interactive version (Flask/Streamlit)
+- Integrate real-time APIs for continuous data updates
+- Expand to include more SME sectors across the GCC region
+- Deploy a web-based interactive version (Flask/Streamlit)
 
 ---
 
 ## 👩‍💻 Author & Contact
 
-. Sandra Raj P
-. 📧 Email: sandraraj36@gmail.com
-. 💼 LinkedIn: www.linkedin.com/in/sandrarajp
-.📂 Portfolio: 
+- Sandra Raj P
+- 📧 Email: sandraraj36@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sandrarajp
+- 📂 Portfolio: 
 ---
