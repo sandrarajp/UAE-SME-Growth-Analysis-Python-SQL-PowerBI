@@ -1,6 +1,7 @@
 # 📊 Smart Insights: AI-Powered Analytics Dashboard for UAE’s SME Growth Monitoring 
 _AI-powered dashboard to predict SME sales, track KPIs in real-time, and align insights with UAE Vision 2030_
-![WhatsApp Image 2025-08-22 at 14 54 54_99d578bf](https://github.com/user-attachments/assets/51528bb8-79f6-4d67-a2b6-3bc1e281e8d5)
+![SME Dashboard](https://github.com/user-attachments/assets/39e7ec78-5c41-4e32-ad6a-734a93fefd49)
+
 
 
 ## 📑 Table of Contents 
