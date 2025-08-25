@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore datasets
+data/
+
+# Ignore model outputs
+ML Predictions/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore cache
+__pycache__/
+*.pyc

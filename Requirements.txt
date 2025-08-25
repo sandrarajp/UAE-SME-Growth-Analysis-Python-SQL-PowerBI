@@ -1,0 +1,11 @@
+### 📌 `requirements.txt`
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
+sweetviz
+openpyxl
