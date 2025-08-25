@@ -44,38 +44,38 @@ SMEs are the backbone of the UAE economy but lack effective data-driven tools fo
 ---
 ## 📂 Project Folder Structure  
 
-```bash
-├── data/  
-│   ├── raw/                 # Original datasets (UAE economic, SME data, etc.)  
-│   ├── processed/           # Cleaned & transformed datasets  
-│  
-├── notebooks/  
-│   ├── eda/                 # Jupyter notebooks for Exploratory Data Analysis  
-│   ├── modeling/            # ML model training & evaluation notebooks  
-│  
-├── scripts/  
-│   ├── preprocessing/       # Python scripts for data cleaning & feature engineering  
-│   ├── modeling/            # ML model scripts (training, prediction)  
-│   ├── visualization/       # Scripts for generating charts/plots  
-│  
-├── dashboards/  
-│   ├── powerbi/             # Power BI project files (.pbix)  
-│   ├── tableau/             # Tableau workbooks (.twb, .twbx)  
-│  
-├── outputs/  
-│   ├── charts/              # Saved visualizations & trend plots  
-│   ├── reports/             # PDF/Word reports generated from analysis  
-│   ├── predictions/         # Model outputs & forecasted sales trends  
-│  
-├── docs/  
+📦 uae-sme-growth-dashboard
+├── 📂 data  
+│   ├── 📂 raw               # Original datasets (UAE economic, SME data, etc.)  
+│   ├── 📂 processed         # Cleaned & transformed datasets  
+│
+├── 📂 notebooks  
+│   ├── 📂 eda               # Jupyter notebooks for Exploratory Data Analysis  
+│   ├── 📂 modeling          # ML model training & evaluation notebooks  
+│
+├── 📂 scripts  
+│   ├── 📂 preprocessing     # Python scripts for data cleaning & feature engineering  
+│   ├── 📂 modeling          # ML model scripts (training, prediction)  
+│   ├── 📂 visualization     # Scripts for generating charts/plots  
+│
+├── 📂 dashboards  
+│   ├── 📂 powerbi           # Power BI project files (.pbix)  
+│   ├── 📂 tableau           # Tableau workbooks (.twb, .twbx)  
+│
+├── 📂 outputs  
+│   ├── 📂 charts            # Saved visualizations & trend plots  
+│   ├── 📂 reports           # PDF/Word reports generated from analysis  
+│   ├── 📂 predictions       # Model outputs & forecasted sales trends  
+│
+├── 📂 docs  
 │   ├── project_report.pdf   # Final project documentation  
 │   ├── presentation.pptx    # Project presentation slides  
-│  
+│
 ├── README.md                # Project overview & instructions  
 ├── requirements.txt         # List of dependencies  
 └── .gitignore               # Ignore unnecessary files  
----
 
+ ```` ``` ````  
 ## 📊 Dashboard / Model / Output  
 - **Power BI Dashboard (.pbix)** → Real-time SME performance monitoring  
 - **ML Model Output (.csv)** → Forecasted sales and KPI predictions  
