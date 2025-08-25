@@ -1,10 +1,6 @@
 # 📊 Smart Insights: AI-Powered Analytics Dashboard for UAE’s SME Growth Monitoring 
-![WhatsApp Image 2025-08-22 at 14 54 54_99d578bf](https://github.com/user-attachments/assets/51528bb8-79f6-4d67-a2b6-3bc1e281e8d5)
-
-## 🔹 Brief One Line Summary  
 AI-powered dashboard to predict SME sales, track KPIs in real-time, and align insights with UAE Vision 2030.  
-
----
+![WhatsApp Image 2025-08-22 at 14 54 54_99d578bf](https://github.com/user-attachments/assets/51528bb8-79f6-4d67-a2b6-3bc1e281e8d5)
 
 ## 📌 Overview  
 This project focuses on monitoring and predicting the growth of Small and Medium Enterprises (SMEs) in the UAE. By leveraging real-time business data, market trends, and customer behavior, it delivers predictive insights, interactive dashboards, and strategic recommendations to support SME development and economic diversification.  
@@ -27,7 +23,6 @@ SMEs are the backbone of the UAE economy but lack effective data-driven tools fo
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **SQL** (data extraction, transformation, aggregation)  
 - **Power BI** (interactive dashboards & KPI monitoring)  
-- **Tableau** (visual storytelling & economic indicators)  
 
 ---
 
@@ -47,22 +42,53 @@ SMEs are the backbone of the UAE economy but lack effective data-driven tools fo
 - Proposed data-driven strategies for sustainable SME growth  
 
 ---
+## 📂 Project Folder Structure  
+
+```bash
+├── data/  
+│   ├── raw/                 # Original datasets (UAE economic, SME data, etc.)  
+│   ├── processed/           # Cleaned & transformed datasets  
+│  
+├── notebooks/  
+│   ├── eda/                 # Jupyter notebooks for Exploratory Data Analysis  
+│   ├── modeling/            # ML model training & evaluation notebooks  
+│  
+├── scripts/  
+│   ├── preprocessing/       # Python scripts for data cleaning & feature engineering  
+│   ├── modeling/            # ML model scripts (training, prediction)  
+│   ├── visualization/       # Scripts for generating charts/plots  
+│  
+├── dashboards/  
+│   ├── powerbi/             # Power BI project files (.pbix)  
+│   ├── tableau/             # Tableau workbooks (.twb, .twbx)  
+│  
+├── outputs/  
+│   ├── charts/              # Saved visualizations & trend plots  
+│   ├── reports/             # PDF/Word reports generated from analysis  
+│   ├── predictions/         # Model outputs & forecasted sales trends  
+│  
+├── docs/  
+│   ├── project_report.pdf   # Final project documentation  
+│   ├── presentation.pptx    # Project presentation slides  
+│  
+├── README.md                # Project overview & instructions  
+├── requirements.txt         # List of dependencies  
+└── .gitignore               # Ignore unnecessary files  
+---
 
 ## 📊 Dashboard / Model / Output  
 - **Power BI Dashboard (.pbix)** → Real-time SME performance monitoring  
-- **Tableau Workbook (.twbx)** → Visualizing UAE economic indicators  
 - **ML Model Output (.csv)** → Forecasted sales and KPI predictions  
 
 ---
 
 ## 🚀 How to Run this Project?  
 1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/uae-sme-growth-dashboard.git
+git clone https://github.com/your-username/uae-sme-growth-dashboard.git 
 2. Install dependencies
-   pip install -r requirements.txt
+pip install -r requirements.txt
 3. Open Jupyter notebooks in notebooks/ for EDA and modeling
-4. Explore dashboards in dashboards/ (Power BI & Tableau files)
+4. Explore dashboards in dashboards/ Power BI 
 5. Check outputs in outputs/ (charts, reports, predictions)
 
 ---
