@@ -50,22 +50,22 @@ Effective SME revenue and growth management are critical for supporting business
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 SME-Growth-Analysis/
-│── dashboard/ # Power BI/Tableau dashboards
-│── Presenatation ppt/ # Final project presentation
-│── Project Report pdf/ # Detailed report
-│── data/ # Raw & processed datasets
-│── ML Predictions/ # Model outputs (revenue predictions, feature importance)
-│── notebooks/ # Jupyter notebooks (EDA, ML, forecasting)
-│── script/ # Python scripts (ETL, preprocessing, model training)
-│── images/ # Visualizations, graphs, figures for README & reports
-│── logs/ # Logs for data processing and model runs
-│── Video explaination/ # Video walkthrough of the project
-│── README.md # Project documentation (this file)
-│── requirements.txt # Python dependencies
-│── .gitignore # Ignore unnecessary files
+│── dashboard/              # Power BI / Tableau dashboards  
+│── presentation/           # Final project presentation (PPT, PDF)  
+│── reports/                # Detailed project reports  
+│── data/                   # Raw & processed datasets  
+│── notebooks/              # Jupyter notebooks (EDA, ML, forecasting)  
+│── scripts/                # Python scripts (ETL, preprocessing, model training)  
+│── predictions/            # Model outputs (revenue predictions, feature importance)  
+│── images/                 # Graphs, visualizations, figures  
+│── videos/                 # Video explanations & walkthroughs  
+│── logs/                   # Logs for data processing & model runs  
+│── requirements.txt        # Python dependencies  
+│── README.md               # Project documentation  
+│── .gitignore              # Ignore unnecessary files
 
 ---
 
