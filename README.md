@@ -65,19 +65,26 @@ SMEs are the backbone of the UAE economy but lack effective data-driven tools fo
 4. Explore dashboards in dashboards/ (Power BI & Tableau files)
 5. Check outputs in outputs/ (charts, reports, predictions)
 
-✅ Results & Conclusion
+---
+
+##✅ Results & Conclusion
 . AI-powered dashboard significantly improved decision-making for SMEs
 . Delivered predictive insights aligned with UAE Vision 2030 goals
 . Enabled stakeholders to track KPIs and market trends in real-time
 
-🔮 Future Work
+---
+
+##🔮 Future Work
 . Integrate real-time APIs for continuous data updates
 . Expand to include more SME sectors across the GCC region
 . Deploy a web-based interactive version (Flask/Streamlit)
 
-👩‍💻 Author & Contact
+---
 
-Sandra Raj P
-📧 Email: sandraraj36@gmail.com
-💼 LinkedIn: www.linkedin.com/in/sandrarajp
-📂 Portfolio: 
+##👩‍💻 Author & Contact
+
+. Sandra Raj P
+. 📧 Email: sandraraj36@gmail.com
+. 💼 LinkedIn: www.linkedin.com/in/sandrarajp
+.📂 Portfolio: 
+---
